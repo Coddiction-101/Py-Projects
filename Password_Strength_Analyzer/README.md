@@ -391,7 +391,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@Coddiction-101](https://github.com/Coddiction-101)
-- Project Link: [https://github.com/Coddiction-101/Password_Strength_Analyzer](https://github.com/Coddiction-101/Password_Strength_Analyzer)
+- Project Link: [https://github.com/Coddiction-101/Py-Projects/Password_Strength_Analyzer](https://github.com/Coddiction-101/Py-Projects/Password_Strength_Analyzer)
 
 ---
 
@@ -407,7 +407,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/password-strength-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/password-strength-analyzer/discussions)
+- **Discussions**: [GitHub Discussions](https://github.com/Coddiction-101/password-strength-analyzer/discussions)
 - **Email**: your.email@example.com
 
 ---
